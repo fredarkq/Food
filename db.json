@@ -42,9 +42,29 @@
       "name": "sdf",
       "phone": "sdfsdf",
       "id": 4
+    },
+    {
+      "name": "d",
+      "phone": "dd",
+      "id": 5
+    },
+    {
+      "name": "sd",
+      "phone": "sdf",
+      "id": 6
+    },
+    {
+      "name": "s",
+      "phone": "ss",
+      "id": 7
+    },
+    {
+      "name": "fsd",
+      "phone": "sdfs",
+      "id": 8
     }
   ],
-  "slides" : [
+  "slides": [
     {
       "src": "img/slider/pepper.jpg",
       "alt": "food",
