@@ -1,0 +1,114 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/vegy.jpg",
+      "altimg": "vegy",
+      "title": "Меню 'Фитнес'",
+      "descr": "Меню 'Фитнес' - это новый подход к приготовлению блюд: больше свежих овощей и фруктов. Продукт активных и здоровых людей. Это абсолютно новый продукт с оптимальной ценой и высоким качеством!",
+      "price": 9
+    },
+    {
+      "img": "img/tabs/post.jpg",
+      "altimg": "post",
+      "title": "Меню 'Постное'",
+      "descr": ".sdfsdfsdf",
+      "price": 14
+    },
+    {
+      "img": "img/tabs/elite.jpg",
+      "altimg": "elite",
+      "title": "Меню 'Премиум'",
+      "descr": "as;ldka;sldk asldkjas asjkdhas dkajsdh askjdh askjdh askjdha skjdh aksjdh askjdha sd jjjjj",
+      "price": 21
+    }
+  ],
+  "requests": [
+    {
+      "name": "asd",
+      "phone": "asdasd",
+      "id": 1
+    },
+    {
+      "name": "ads",
+      "phone": "asdasd",
+      "id": 2
+    },
+    {
+      "name": "лорл",
+      "phone": "фыв",
+      "id": 3
+    },
+    {
+      "name": "sdf",
+      "phone": "sdfsdf",
+      "id": 4
+    }
+  ],
+  "slides" : [
+    {
+      "src": "img/slider/pepper.jpg",
+      "alt": "food",
+      "id": 1
+    },
+    {
+      "src": "img/slider/food-12.jpg",
+      "alt": "food",
+      "id": 2
+    },
+    {
+      "src": "img/slider/olive-oil.jpg",
+      "alt": "food",
+      "id": 3
+    },
+    {
+      "src": "img/slider/paprika.jpg",
+      "alt": "food",
+      "id": 4
+    },
+    {
+      "src": "img/slider/olive-oil.jpg",
+      "alt": "food",
+      "id": 5
+    },
+    {
+      "src": "img/slider/food-12.jpg",
+      "alt": "food",
+      "id": 6
+    },
+    {
+      "src": "img/slider/olive-oil.jpg",
+      "alt": "food",
+      "id": 7
+    },
+    {
+      "src": "img/slider/paprika.jpg",
+      "alt": "food",
+      "id": 8
+    },
+    {
+      "src": "img/slider/olive-oil.jpg",
+      "alt": "food",
+      "id": 9
+    },
+    {
+      "src": "img/slider/food-12.jpg",
+      "alt": "food",
+      "id": 10
+    },
+    {
+      "src": "img/slider/olive-oil.jpg",
+      "alt": "food",
+      "id": 11
+    },
+    {
+      "src": "img/slider/paprika.jpg",
+      "alt": "food",
+      "id": 12
+    },
+    {
+      "src": "img/slider/olive-oil.jpg",
+      "alt": "food",
+      "id": 13
+    }
+  ]
+}
